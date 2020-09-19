@@ -1,0 +1,17 @@
+{
+  "name": "batch-splitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "batch_splitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "csv-writer": "^1.6.0",
+    "lodash": "^4.17.20",
+    "readline-sync": "^1.4.10"
+  }
+}
